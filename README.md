@@ -1,6 +1,6 @@
 # AI Social Bot Detection
 
-<p align="center"><img src="resources/teaser.png" width="600"/></p>
+<!-- <p align="center"><img src="resources/teaser.png" width="600"/></p> -->
 
 Pipeline for creating data and training AI social bots detection models. The repo includes data collection, synthetic data generation via persona-based LLM prompting, and training/evaluation of multiple detection models.
 
