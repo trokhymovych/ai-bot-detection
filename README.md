@@ -45,3 +45,10 @@ data/                            # Raw → processed → train/test splits (not 
 models/                          # Trained model checkpoints (not in git)
 scores/                          # Detector output scores (not in git)
 ```
+
+AI coding assistant (Claude Code) was used for code review, debugging, and refactoring.
+
+## Citation: 
+```
+TBA
+```
