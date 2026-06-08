@@ -50,5 +50,13 @@ AI coding assistant (Claude Code) was used for code review, debugging, and refac
 
 ## Citation: 
 ```
-TBA
+@misc{trokhymovych2026adversarial,
+      title={Adversarial Creation and Detection of AI-Generated Social Bot Content}, 
+      author={Mykola Trokhymovych and Ricardo Baeza-Yates and Alessandro Flammini and Diego Saez-Trumper and Filippo Menczer},
+      year={2026},
+      eprint={2606.07219},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2606.07219}, 
+}
 ```
